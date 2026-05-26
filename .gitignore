@@ -1,5 +1,4 @@
 venv/
-
 .git-credentials
-.git-credentials
-.git-credentials
+.cache/
+__pycache__/
