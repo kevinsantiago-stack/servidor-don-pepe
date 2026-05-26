@@ -1,3 +1,5 @@
 [user]
 	name = kevinsantiago-stack
 	email = larrotacuervokevinsantiago@gmail.com
+[credential]
+	helper = store
