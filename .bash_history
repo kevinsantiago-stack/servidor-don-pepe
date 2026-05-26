@@ -70,3 +70,18 @@ sudo systemctl enable gunicorn
 curl http://localhost:5000/api/registros
 sed -i '/EOF/d' app.py
 gunicorn --workers 3 --bind 0.0.0.0:5000 app:app
+ls
+ls
+cd api_flask
+./deploy.sh
+sudo systemctl status flaskapi.service
+python3 app.py
+clear
+python3 app.py
+clear
+python3 app.py
+git checkout feature-inventario
+git add app.py
+git commit -m "Fix: corregido bloque __main__ y ajustes en app.py"
+git push origin feature-inventario
+python3 app.py
