@@ -3,7 +3,7 @@
 echo "Iniciando el despliege automatico de don pepe"
 
 #moverse a la carpeta 
-cd /home/larrota/api_flask
+cd /home/larrota
 
 #traer los cambios desde git 
 echo "trayendo la ultima version desde git"
