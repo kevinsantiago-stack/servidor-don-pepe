@@ -85,3 +85,154 @@ git add app.py
 git commit -m "Fix: corregido bloque __main__ y ajustes en app.py"
 git push origin feature-inventario
 python3 app.py
+python3 app.py
+cd servidor
+sudo systemctl restart flaskapi.service
+sudo systemctl status flaskapi.service
+sudo systemctl status flaskapi.service
+clear
+sudo systemctl status flaskapi.service
+/home/larrota/venv/bin/python /home/larrota/app.py
+/home/larrota/venv/bin/pip list
+/home/larrota/venv/bin/python /home/larrota/app.py
+cat /home/larrota/app.py
+nano deploynano /home/larrota/app.py
+/home/larrota/venv/bin/python /home/larrota/app.py
+clear
+/home/larrota/venv/bin/python /home/larrota/app.py
+nano /home/larrota/app.py
+/home/larrota/venv/bin/python /home/larrota/app.py
+sudo systemctl daemon-reload
+sudo systemctl restart flaskapi.service
+sudo systemctl status flaskapi.service
+/home/larrota/venv/bin/gunicorn --version
+sudo nano /etc/systemd/system/flaskapi.service
+sudo systemctl daemon-reload
+sudo systemctl restart flaskapi.service
+sudo systemctl status flaskapi.service
+sudo systemctl status flaskapi.service
+clear
+sudo systemctl status flaskapi.service
+don pepe
+don-pepe
+clear
+cd servidor-don-pepe
+cd don-pepe
+cd servidor-don-pepe
+ls
+nano deploy,sh
+sudo systemctl status flaskapi.service
+clear
+push origin inventario
+push origin fearure-inventario
+git push origin inventario
+clear
+git push origin seature-inventario
+clear
+git push origin feature-inventario
+log --oneline --graph --all
+git log --oneline --graph --all
+git log --oneline --graph --all
+./deploy.sh
+clear
+git log --oneline --graph --all
+git checkout feature-inventario
+git add .
+git commit -m "Cambios en feature inventario"
+git checkout master
+echo "prueba master" >> prueba.txt
+git add .
+git commit -m "Cambio en master"
+git merge feature-inventario
+git merge feature-inventario
+git log --oneline --graph --all
+clear
+/.deploy.sh
+./deploy.sh
+sudo systemctl status flaskapi.service
+./deploy.sh
+nano deploy.sh
+clear
+git push origin feature-inventario
+git rm --cached .git-credentials
+echo ".git-credentials" >> .gitignore
+git add .
+git commit -m "Removido archivo sensible"
+git push origin feature-inventario
+clear
+git push origin feature-inventario
+git reset HEAD~1
+git rm --cached .git-credentials
+echo ".git-credentials" >> .gitignore
+git add .
+git commit -m "Merge limpio sin credenciales"
+git commit -m "Merge limpio sin credenciales"
+clear
+git commit -m "Merge limpio sin credenciales"
+git push origin feature-inventario
+rm .git-credentials
+git filter-branch --force --index-filter "git rm --cached --ignore-unmatch .git-credentials" --prune-empty --tag-name-filter cat -- --all
+rm -rf .git/refs/original/
+rm -rf .git/refs/original/
+git reflog expire --expire=now --all
+git gc --prune=now --aggressive
+echo ".git-credentials" >> .gitignore
+git add .
+git commit -m "Removidas credenciales"
+git push origin feature-inventario --force
+git push origin feature-inventario --force
+git log --oneline --graph --all
+git push origin feature-inventario
+clear
+git push origin feature-inventario
+git log --oneline --graph --all
+clear
+cd don-pepe
+cd servidor-don.pepe
+cd servidor-don-pepe
+clear
+nano deploy.sh
+cleat
+clear
+./deploy.sh
+git config --global pull.rebase false
+clear
+./deploy.sh
+sudo systemctl status flaskapi.service
+pwd
+ls
+nano deploy.sh
+./deploy.sh
+git status
+clear
+git status
+nano .gitignore
+git add .gitignore
+git commit -m "Conflicto resuelto"
+./deploy.sh
+clear
+./deploy.sh
+nano requeriments.txt
+nano deploy.sh
+./deploy.sh
+nano requeriments.txt
+clear
+nano requeriments.txt
+clear
+./deploy.sh
+nano requeriments.txt
+./deploy.sh
+clear
+./deploy.sh
+sudo systemctl status flaskapi.service
+cd home/larrota
+cd ~
+clear
+git push origin feature-inventario
+clear
+git add .
+git commit -m "Actualizado mensaje de confirmacion"
+git push origin feature-inventario
+clear
+git push origin feature-inventario
+git log --oneline --graph --all
