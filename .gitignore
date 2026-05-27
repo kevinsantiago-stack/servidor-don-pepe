@@ -1,4 +1,22 @@
+# Ignorar entornos virtuales (Nunca deben subirse)
 venv/
-.git-credentials
+ENV/
+
+# Ignorar archivos de caché de ejecución de Python
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar bases de datos locales de desarrollo
+*.sqlite3
+
+# Ignorar archivos del sistema operativo anfitrión
+.DS_Store
+Thumbs.db
+
+# Ignorar carpetas ocultas del sistema y de herramientas en la raíz
 .cache/
+.git-credentials
+.lesshsQ
 __pycache__/
