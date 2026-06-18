@@ -44,6 +44,11 @@ def get_repuestos():
             "aceite de motor",
             "bujías",
             "pastillas de freno"
+            "neumaticos"
+            "baterias"
+            "bujias"
+            "foco de motor"
+            "filtro de combustible"
         ]
     })
 
